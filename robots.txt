@@ -1,0 +1,14 @@
+# ==========================================
+# Robots.txt for UrbanCart E-Commerce
+# SEO College Project Report
+# ==========================================
+
+User-agent: *
+Allow: /
+
+# Disable crawling of admin, draft, or cart files if any existed
+Disallow: /cart/
+Disallow: /checkout/
+
+# Define XML Sitemap Reference
+Sitemap: https://urbancart-seo.vercel.app/sitemap.xml

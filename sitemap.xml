@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  =========================================
+  XML Sitemap for UrbanCart E-Commerce
+  SEO College Project Report
+  =========================================
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home Page -->
+  <url>
+    <loc>https://urbancart-seo.vercel.app/index.html</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- Men's Category Page -->
+  <url>
+    <loc>https://urbancart-seo.vercel.app/mens.html</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Women's Category Page -->
+  <url>
+    <loc>https://urbancart-seo.vercel.app/womens.html</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Featured Product Page -->
+  <url>
+    <loc>https://urbancart-seo.vercel.app/product.html</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Style Blog Page -->
+  <url>
+    <loc>https://urbancart-seo.vercel.app/blog.html</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- About Us Story Page -->
+  <url>
+    <loc>https://urbancart-seo.vercel.app/about.html</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+
+  <!-- Contact Us Page -->
+  <url>
+    <loc>https://urbancart-seo.vercel.app/contact.html</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+
+</urlset>
